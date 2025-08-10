@@ -2,5 +2,7 @@
   <head>
     <body>
       <img
-  src="images/chiot.jpg"
-  alt="L'image d'un chiot" />
+  src="images/photohono.jpg"
+  alt="L'image d'une personne" 
+  width="600"
+  height="300" />
