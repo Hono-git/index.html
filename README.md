@@ -6,6 +6,7 @@ html>
            <a href="https://www.auf.org/" title="Page d'accueil de l'AUF" target="_blank">Site Web de l'Agence universitaire de la Francophonie</a> 
             </p>
         <a href="mailto:honoouedraogo3@gmail.com"> Envoyer un courriel à honoouedraogo3@gmail.com</a>
+        <img src="https://www.example.com/images/francophonie.png" /> 
         <ul>
     <li>Série</li>
     <li>Machine</li>
