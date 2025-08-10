@@ -17,4 +17,18 @@ html>
     <li>VIDEO</li>
     <li>MIXAGE</li>
 </ol>
+        <table>
+    <tr>
+  <td>Banana</td>
+  <td>Avocado</td>
+  <td>Mango</td>
+  <td>Pineapple</td>
+</tr>
+<tr>
+  <td>Bird</td>
+  <td>Dog</td>
+  <td>Lion</td>
+  <td>Moustiquo</td>
+</tr>
+</table>
     </body>
